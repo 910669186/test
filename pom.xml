@@ -89,12 +89,6 @@
       <artifactId>jackson-dataformat-yaml</artifactId>
       <version>2.9.3</version>
     </dependency>
-    <dependency>
-      <groupId>org.apache.maven.doxia</groupId>
-      <artifactId>doxia-site-renderer</artifactId>
-      <version>1.7.1</version>
-    </dependency>
-
   </dependencies>
 
   <build>
