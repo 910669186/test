@@ -1,3 +1,5 @@
+package com.testerhome.api;
+
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.FixMethodOrder;
@@ -9,12 +11,12 @@ public class Children extends Base{
 
     @BeforeClass
     public static void BeforeClassChildren() {
-        System.out.println("Children BeforeClass");
+        System.out.println("com.testerhome.api.Children BeforeClass");
     }
 
     @AfterClass
     public static void AfterClassChildren() {
-        System.out.println("Children AfterClass");
+        System.out.println("com.testerhome.api.Children AfterClass");
     }
 
     @Test

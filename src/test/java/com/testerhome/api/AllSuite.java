@@ -1,3 +1,5 @@
+package com.testerhome.api;
+
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
